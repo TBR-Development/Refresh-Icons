@@ -4,4 +4,3 @@
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\RefreshIconCache\command]
 @="\"C:\\Refresh-Icon-Cache.bat\""
-
