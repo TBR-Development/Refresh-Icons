@@ -12,11 +12,11 @@ When you click the **Refresh Icon Cache** context menu entry, it will refresh yo
  * **Install**
  
     **Step 1**: Click [here](https://github.com/NimbiDev/Refresh-Icon-Cache/archive/refs/heads/main.zip) to download the repo and exract the contents.<br />
-    **Step 2**: Place the `Shell` folder into `%SystemDrive%`.
+    **Step 2**: Place the `Shell` folder into `%SystemDrive%`.<br />
     **Step 3**: Navigate to `%SystemDrive%/Shell/Scripts/Refresh Icon Cache/` and Double-click `register.reg`
 
 
  * **Uninstall**
  
-    **Step 1**: Navigate to `%SystemDrive%/Shell/Scripts/Refresh Icon Cache/` and Double-click `unregister.reg`
+    **Step 1**: Navigate to `%SystemDrive%/Shell/Scripts/Refresh Icon Cache/` and Double-click `unregister.reg`.<br />
     **Step 2**: Navigate to `%SystemDrive%/Shell/Scripts/` and delete the `Refresh Icon Cache`` folder.
