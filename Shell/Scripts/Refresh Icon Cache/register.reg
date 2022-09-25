@@ -1,6 +1,6 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache]
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\command]
-@="\"C:\\Refresh-Icon-Cache.bat\""
+@="\"C:\\Shell\\Scripts\\Refresh Icon Cache\\Refresh Icon Cache.bat\""
