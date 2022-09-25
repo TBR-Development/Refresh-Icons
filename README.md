@@ -1,4 +1,4 @@
-## Icon Fix
+## Refresh Icon Cache - Desktop Context Menu Entry
 Desktop context menu entry for clearing the Icon Cache
 
 
