@@ -1,5 +1,3 @@
-@ECHO OFF
-
 TASKKILL /f /im explorer.exe
 CD /d %userprofile%\AppData\Local
 DEL IconCache.db /a

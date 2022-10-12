@@ -1,6 +1,6 @@
-title: Desktop Shell Menu
+title: Refresh Icons
 description: >
-  Desktop context menu with some useful shell commands
+  Add or Remove Refresh Icons to the Desktop Context Menu
 
 
 remote_theme: just-the-docs/just-the-docs
@@ -8,4 +8,3 @@ remote_theme: just-the-docs/just-the-docs
 header_pages:
   - index.md
   - instructions.md
-  - shell-commands.md
