@@ -1,0 +1,11 @@
+title: Desktop Shell Menu
+description: >
+  Desktop context menu with some useful shell commands
+
+
+remote_theme: just-the-docs/just-the-docs
+  
+header_pages:
+  - index.md
+  - instructions.md
+  - shell-commands.md

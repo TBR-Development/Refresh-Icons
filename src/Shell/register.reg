@@ -1,0 +1,36 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache]
+"MUIVerb"="Shell"
+"Position"="Bottom"
+"SubCommands"=""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\001flyout]
+"MUIVerb"="Refresh Icons"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\001flyout\command]
+@="\"C:\\Shell\\Scripts\\Refresh Icons.bat\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\002flyout]
+"MUIVerb"="Restart Explorer"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\002flyout\command]
+@="C:\\Shell\\Scripts\\Restart Explorer.bat\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\003flyout]
+"MUIVerb"="Windows Master Control Panel"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\003flyout\command]
+@="shell:::{ED7BA470-8E54-465E-825C-99712043E01C}"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\004flyout]
+"MUIVerb"="SFC /SCANNOW"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\004flyout\command]
+@="C:\\Shell\\Scripts\\SFC SCANNOW.bat\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\005flyout]
+"MUIVerb"="SFC /VERIFYONLY"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Refresh Icon Cache\shell\005flyout\command]
+@="C:\\Shell\\Scripts\\SFC VERIFYONLY.bat\""
