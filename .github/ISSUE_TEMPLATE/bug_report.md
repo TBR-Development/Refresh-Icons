@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: 'Issue'
 labels: ''
-assignees: 'Joshua Lewis <JoshuaVL1988@protonmail.com>'
+assignees: ''
 
 ---
 
